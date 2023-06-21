@@ -1,4 +1,4 @@
 # Online-Movie-and-tv-series-browsing-system
 OOP Project
 
-![Screenshot 2022-10-21 230151](https://user-images.githubusercontent.com/95935466/197255193-7f37ef10-59c9-4f94-847b-eeac60554c14.png)
+![Screenshot (411)](https://github.com/Rehantp/Online-Movie-and-tv-series-browsing-system/assets/95935466/64676f92-6ce0-4eea-8303-f08f2ecc0909)
